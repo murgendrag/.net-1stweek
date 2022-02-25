@@ -1,0 +1,15 @@
+D:\.net\prntusername\prntusername\bin\Debug\net6.0\prntusername.exe
+D:\.net\prntusername\prntusername\bin\Debug\net6.0\prntusername.deps.json
+D:\.net\prntusername\prntusername\bin\Debug\net6.0\prntusername.runtimeconfig.json
+D:\.net\prntusername\prntusername\bin\Debug\net6.0\prntusername.dll
+D:\.net\prntusername\prntusername\bin\Debug\net6.0\prntusername.pdb
+D:\.net\prntusername\prntusername\obj\Debug\net6.0\prntusername.csproj.AssemblyReference.cache
+D:\.net\prntusername\prntusername\obj\Debug\net6.0\prntusername.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\prntusername\prntusername\obj\Debug\net6.0\prntusername.AssemblyInfoInputs.cache
+D:\.net\prntusername\prntusername\obj\Debug\net6.0\prntusername.AssemblyInfo.cs
+D:\.net\prntusername\prntusername\obj\Debug\net6.0\prntusername.csproj.CoreCompileInputs.cache
+D:\.net\prntusername\prntusername\obj\Debug\net6.0\prntusername.dll
+D:\.net\prntusername\prntusername\obj\Debug\net6.0\refint\prntusername.dll
+D:\.net\prntusername\prntusername\obj\Debug\net6.0\prntusername.pdb
+D:\.net\prntusername\prntusername\obj\Debug\net6.0\prntusername.genruntimeconfig.cache
+D:\.net\prntusername\prntusername\obj\Debug\net6.0\ref\prntusername.dll

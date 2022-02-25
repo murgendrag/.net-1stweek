@@ -1,0 +1,15 @@
+D:\.net\demoreturn\demoreturn\bin\Debug\net6.0\demoreturn.exe
+D:\.net\demoreturn\demoreturn\bin\Debug\net6.0\demoreturn.deps.json
+D:\.net\demoreturn\demoreturn\bin\Debug\net6.0\demoreturn.runtimeconfig.json
+D:\.net\demoreturn\demoreturn\bin\Debug\net6.0\demoreturn.dll
+D:\.net\demoreturn\demoreturn\bin\Debug\net6.0\demoreturn.pdb
+D:\.net\demoreturn\demoreturn\obj\Debug\net6.0\demoreturn.csproj.AssemblyReference.cache
+D:\.net\demoreturn\demoreturn\obj\Debug\net6.0\demoreturn.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\demoreturn\demoreturn\obj\Debug\net6.0\demoreturn.AssemblyInfoInputs.cache
+D:\.net\demoreturn\demoreturn\obj\Debug\net6.0\demoreturn.AssemblyInfo.cs
+D:\.net\demoreturn\demoreturn\obj\Debug\net6.0\demoreturn.csproj.CoreCompileInputs.cache
+D:\.net\demoreturn\demoreturn\obj\Debug\net6.0\demoreturn.dll
+D:\.net\demoreturn\demoreturn\obj\Debug\net6.0\refint\demoreturn.dll
+D:\.net\demoreturn\demoreturn\obj\Debug\net6.0\demoreturn.pdb
+D:\.net\demoreturn\demoreturn\obj\Debug\net6.0\demoreturn.genruntimeconfig.cache
+D:\.net\demoreturn\demoreturn\obj\Debug\net6.0\ref\demoreturn.dll

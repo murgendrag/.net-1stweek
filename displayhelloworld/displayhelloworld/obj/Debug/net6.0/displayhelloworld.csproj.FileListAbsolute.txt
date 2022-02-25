@@ -1,0 +1,15 @@
+D:\.net\displayhelloworld\displayhelloworld\bin\Debug\net6.0\displayhelloworld.exe
+D:\.net\displayhelloworld\displayhelloworld\bin\Debug\net6.0\displayhelloworld.deps.json
+D:\.net\displayhelloworld\displayhelloworld\bin\Debug\net6.0\displayhelloworld.runtimeconfig.json
+D:\.net\displayhelloworld\displayhelloworld\bin\Debug\net6.0\displayhelloworld.dll
+D:\.net\displayhelloworld\displayhelloworld\bin\Debug\net6.0\displayhelloworld.pdb
+D:\.net\displayhelloworld\displayhelloworld\obj\Debug\net6.0\displayhelloworld.csproj.AssemblyReference.cache
+D:\.net\displayhelloworld\displayhelloworld\obj\Debug\net6.0\displayhelloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\displayhelloworld\displayhelloworld\obj\Debug\net6.0\displayhelloworld.AssemblyInfoInputs.cache
+D:\.net\displayhelloworld\displayhelloworld\obj\Debug\net6.0\displayhelloworld.AssemblyInfo.cs
+D:\.net\displayhelloworld\displayhelloworld\obj\Debug\net6.0\displayhelloworld.csproj.CoreCompileInputs.cache
+D:\.net\displayhelloworld\displayhelloworld\obj\Debug\net6.0\displayhelloworld.dll
+D:\.net\displayhelloworld\displayhelloworld\obj\Debug\net6.0\refint\displayhelloworld.dll
+D:\.net\displayhelloworld\displayhelloworld\obj\Debug\net6.0\displayhelloworld.pdb
+D:\.net\displayhelloworld\displayhelloworld\obj\Debug\net6.0\displayhelloworld.genruntimeconfig.cache
+D:\.net\displayhelloworld\displayhelloworld\obj\Debug\net6.0\ref\displayhelloworld.dll
