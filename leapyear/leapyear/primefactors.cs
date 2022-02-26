@@ -10,6 +10,7 @@ namespace leapyear
     {
         public static void computeprimefactors()
         {
+            Console.Writeline("program to find primefactors");
             Console.WriteLine("enter the number to find prime factors");
             int n= Convert.ToInt32(Console.ReadLine());
             int i,j;
