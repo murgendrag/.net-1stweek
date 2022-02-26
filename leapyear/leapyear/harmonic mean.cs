@@ -15,11 +15,12 @@ namespace leapyear
             int n = Convert.ToInt32(Console.ReadLine());
             int i;
             //double m;
-            float s = 0;
+            double s = 0;
             for (i = 1; i <= n; i++)
             {
                 Console.WriteLine("1/" + i);
-                s = s + 1 / i;
+               // s = s + (1/ i);
+               s+=1/(float)i;
             }   
                 //m = s/n;
             
